@@ -1,0 +1,24 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "Demo Node.js Application deployed to Heroku using Heroku CLI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "heroku",
+    "nodejs",
+    "express",
+    "cloud-computing"
+  ],
+  "author": "Nguyen Van Hung - 23IT.B069",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
